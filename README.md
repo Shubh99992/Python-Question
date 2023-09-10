@@ -1,4 +1,4 @@
-![my badge](https://img.shields.io/badge/Made%20with-Html,css%20and%20Js-blue?style=for-the-badge&logo=)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/Python-Question?style=for-the-badge) 
+![my badge](https://img.shields.io/badge/Made%20with-Html,css%20and%20Js-blue?style=for-the-badge&logo=Python)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/Python-Question?style=for-the-badge) 
 
 # Hi Everyone!
 Today's Project is based on Pyhton
